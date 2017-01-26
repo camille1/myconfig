@@ -1,1 +1,5 @@
 # myconfig
+
+## Jupyter Notebook
+* Manageging env conda info --envs
+* remove env conda remove --name name_of_kernel --all 
