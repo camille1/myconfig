@@ -15,12 +15,12 @@
 * `pip install django`
 * `django-admin --version`
 
-### création d'un projet
+### Création d'un projet
 * `django-admin startproject mysite`
 
-## serveur de développement
+### Serveur de développement
 * `python manage.py runserver`
 
-## Création d'application
+### Création d'application
 * `python manage.py startapp polls`
 * `python manage.py runserver`
