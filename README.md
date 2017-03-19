@@ -24,3 +24,11 @@
 ### Création d'application
 * `python manage.py startapp polls`
 * `python manage.py runserver`
+
+### Migration
+if Models (SQL), make migration
+* `python manage.py makemigration`
+* `python manage.py migrate`
+
+### Admin
+* `python manage.py createsuperuser`
